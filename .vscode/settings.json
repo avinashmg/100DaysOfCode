@@ -1,5 +1,6 @@
 {
   "files.associations": {
-    "INUSULT1.C": "cpp"
+    "INUSULT1.C": "cpp",
+    "sqlite3.h": "c"
   }
 }
